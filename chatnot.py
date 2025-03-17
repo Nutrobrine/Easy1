@@ -70,3 +70,4 @@ start_button = tk.Button(root, text="Start Training", command=start_training, fo
 start_button.pack(pady=5)
 
 root.mainloop()
+# happy birthday Aashi
